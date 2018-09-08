@@ -1,0 +1,23 @@
+[user]
+	name = Nattawut Phetmak
+	email = neizod@gmail.com
+[color]
+	ui = auto
+[push]
+	default = simple
+[core]
+	editor = vi
+	pager = less
+	excludesfile = ~/.gitignore
+[alias]
+	ci = commit --message
+	ca = commit --amend
+	co = checkout
+	cp = cherry-pick
+	st = status --short --branch
+	dw = diff --word-diff
+	rw = diff --staged --word-diff
+	review = diff --staged
+	graph = log --all --oneline --decorate --graph
+	root = rev-parse --show-toplevel
+	wipeout = clean -ffdx
