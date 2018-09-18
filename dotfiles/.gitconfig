@@ -10,7 +10,8 @@
 	pager = less
 	excludesfile = ~/.gitignore
 [alias]
-	ci = commit --message
+	ci = commit
+	cm = commit --message
 	ca = commit --amend
 	co = checkout
 	cp = cherry-pick
@@ -21,3 +22,4 @@
 	graph = log --all --oneline --decorate --graph
 	root = rev-parse --show-toplevel
 	wipeout = clean -ffdx
+	rollback = reset --hard HEAD^
