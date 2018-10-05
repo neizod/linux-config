@@ -1,5 +1,10 @@
 # make sure that .bashrc does source this file
 
+alias ll='ls -alF'
+alias lh='ls -hlF'
+alias la='ls -A'
+alias lv='ls -v'
+alias l='ls -CF'
 
 alias info='info --vi-keys'
 
