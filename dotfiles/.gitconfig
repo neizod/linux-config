@@ -16,6 +16,7 @@
 	co = checkout
 	cp = cherry-pick
 	st = status --short --branch
+	sf = show --compact-summary
 	dw = diff --word-diff
 	rw = diff --staged --word-diff
 	review = diff --staged
