@@ -16,5 +16,6 @@ alias sml='rlwrap -a sml'
 alias nodejs='env NODE_NO_READLINE=1 rlwrap nodejs'
 alias coffee='rlwrap -a coffee'
 
+alias rsync-progress='rsync --archive --compress --recursive --info=progress2'
 alias autorenamepic="jhead -n%Y-%m-%d\ %H.%M.%S"
 alias list-packages="dpkg-query --show --showformat='\${Package;-50}\t\${Installed-Size} \${Status}\n' | sort -k 2 -n | grep -v deinstall"
