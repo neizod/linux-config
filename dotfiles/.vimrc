@@ -43,6 +43,7 @@ filetype plugin indent on
 
 
 " interface config ===========================================================
+set visualbell
 set nofoldenable
 set wildmenu
 set t_Co=256
