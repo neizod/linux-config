@@ -17,6 +17,7 @@ Stylize Ubuntu (and its varient) from Fresh Installed
      - `<Super>2` -- web browser
      - `<Super>3` -- file manager
      - `<Super>4` -- lightweight text editor (markdown, maybe?)
+     - `<PrtSc>` -- ok to print screen but put it in clipboard
 
 5. Append content from `dotfile` directory (hidden, view with `ll`) into `~/`,
    unless state otherwise at the very first lines of that file.
