@@ -64,7 +64,7 @@ Programming Tools
 | g++              |        |                      |
 | ruby-dev         |        |                      |
 | npm              |        | Comes with `node` :) |
-| pypy             |        |                      |
+| pypy3            |        |                      |
 | smlnj            |        |                      |
 | racket           |        |                      |
 | golang           |        |                      |

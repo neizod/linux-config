@@ -6,9 +6,12 @@ alias la='ls -A'
 alias lv='ls -v'
 alias l='ls -CF'
 
+alias v='vi -u NONE'
+alias jks='jekyll serve'
+alias jksi='jekyll serve --incremental'
+
 alias info='info --vi-keys'
 
-alias v='vi -u NONE'
 alias emacs='emacs -nw'
 alias python='python3'
 alias racket='rlwrap -a racket'
