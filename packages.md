@@ -29,7 +29,7 @@ Command Line Utils
 | rlwrap      |             |                                  |
 | imagemagick |             | Already installed by distro?     |
 | graphviz    |             |                                  |
-| ntfs-config |             | Working with windows' partition. |
+| ntfs-3g     |             | Working with windows' partition. |
 | unetbootin  | Ubuntu-like | Need PPA.                        |
 
 
@@ -53,6 +53,7 @@ Lifes
 | chrome-gnome-shell | Ubuntu | For fixing Alt-Tab                         |
 | gimp               |        |                                            |
 | krita              |        | For digital art work with tablet & stylus. |
+| pandoc             |        |                                            |
 | texlive-full       |        | CAUTION! very large package.               |
 
 
@@ -67,9 +68,11 @@ Programming Tools
 | pypy3            |        |                      |
 | smlnj            |        |                      |
 | racket           |        |                      |
+| sbcl             |        |                      |
 | golang           |        |                      |
 | octave           |        |                      |
 | r-base           |        |                      |
+| minizinc         |        |                      |
 | flex bison       |        |                      |
 | haskell-platform |        |                      |
 
