@@ -4,7 +4,7 @@ Stylize Ubuntu (and its varient) from Fresh Installed
 1. Edit `/etc/apt/source.list` and change main mirror to appropriate one.
    Select preferrable mirror from `mirrors.md`.
 
-2. Run `apt update && apt upgrate` in order to get latest packages information.
+2. Run `apt update && apt upgrade` in order to get latest packages information.
 
 3. Install selected packages from `packages.md` with `apt install <PACKAGE>`.
 
