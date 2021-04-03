@@ -75,6 +75,9 @@ Programming Tools
 | minizinc         |        |                      |
 | flex bison       |        |                      |
 | haskell-platform |        |                      |
+| python3-ipykernel|        |                      |
+| jupyter-notebook |        |                      |
+| jupyter-client   |        |                      |
 
 
 Games

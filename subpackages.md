@@ -12,6 +12,19 @@ Gem Packages:
   - jekyll-coffeescript    # (need npm)
 
 
+R (CRAN)
+========
+
+Invoke R with root, then use install.packages:
+
+- IRkernel
+
+After that, set up with
+
+``` R
+IRkernel::installspec(user=FALSE)
+```
+
 
 Vim Vundle
 ==========
