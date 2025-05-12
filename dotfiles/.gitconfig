@@ -23,4 +23,5 @@
 	graph = log --all --oneline --decorate --graph
 	root = rev-parse --show-toplevel
 	wipeout = clean -ffdx
+	unstage = restore --staged
 	rollback = reset --hard HEAD^
