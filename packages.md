@@ -55,6 +55,7 @@ Lifes
 | krita              |        | For digital art work with tablet & stylus. |
 | pandoc             |        |                                            |
 | texlive-full       |        | CAUTION! very large package.               |
+| wamerican          |        | Don't know why not default in some distro  |
 
 
 Programming Tools
