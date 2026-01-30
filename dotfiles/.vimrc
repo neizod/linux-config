@@ -45,6 +45,7 @@ filetype plugin indent on
 " interface config ===========================================================
 set visualbell
 set nofoldenable
+set wildmode=longest,list,full
 set wildmenu
 set t_Co=256
 set history=100
